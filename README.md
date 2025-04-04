@@ -1,1 +1,1 @@
-# clipper-privacy
+# Clipper Privacy - Internal Use
